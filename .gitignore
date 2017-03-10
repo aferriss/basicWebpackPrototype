@@ -1,0 +1,12 @@
+node_modules
+built
+.DS_Store
+.sass-cache
+.env
+assets/videos
+*.swp
+.*.swp
+*.swo
+.*.swo
+*.swn
+.*.swn
