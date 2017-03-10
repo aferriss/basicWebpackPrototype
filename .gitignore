@@ -10,3 +10,4 @@ assets/videos
 .*.swo
 *.swn
 .*.swn
+*.log

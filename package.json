@@ -1,0 +1,16 @@
+{
+  "name": "riskyPrototype",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Adam Ferriss",
+  "license": "ISC",
+  "scripts": {
+    "start": "webpack-dev-server -d --config webpack.config.js --content-base build/ --progress --colors"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.4.1"
+  },
+  "dependencies": {}
+}
